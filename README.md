@@ -1,1 +1,1 @@
-# Customer-Churn-Risk-in-Internet-service-subscribers.
+# A Machine Learning Approach to ISP Churn Prediction in Kenya
