@@ -1,9 +1,5 @@
 # A Machine Learning Approach to ISP Churn Prediction in Kenya
 
-Certainly! Here is your Readme content rephrased and cleaned of all image tags, ready to paste back into your VS Code:
-
----
-
 ## Dataset  
 This project uses a CSV dataset containing 36,992 customer records, each with 23 features.
 
