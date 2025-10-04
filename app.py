@@ -6,8 +6,10 @@ import numpy as np
 model = joblib.load("best_churn_model.pkl")
 
 st.set_page_config(page_title="Customer Churn Prediction", layout="wide")
+#insert logo 
+st.image("pic-logo.jpeg", width=100)
 
-st.title("📊 Customer Churn Prediction App")
+st.title("Customer Churn Prediction App")
 st.markdown("Enter customer details below to predict churn probability.")
 
 # --- Numeric inputs ---
